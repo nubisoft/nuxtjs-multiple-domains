@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        Default domain nubisoft.io
+        Subdomain 1 nubisoft.io
       </h1>
     </div>
   </div>
@@ -11,7 +11,7 @@
 
 <script>
 export default {
-  name: 'Nubisoft',
+  name: 'Subdomain1',
 };
 </script>
 
