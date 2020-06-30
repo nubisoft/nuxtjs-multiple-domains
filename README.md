@@ -1,4 +1,7 @@
-# nuxtjs-multiple-domains
+# How to handle multiple domains and subdomains in your Nuxt.js project
+
+Check our blog post:
+https://nubisoft.io/blog/how-to-multiple-subdomains-nuxt-js/
 
 ## Build Setup
 
